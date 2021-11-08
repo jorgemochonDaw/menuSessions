@@ -1,0 +1,13 @@
+{
+    "name": "koke/menu",
+    "description": "ejercicio con sessions menu",
+    "authors": [{
+        "name": "jorge mochon bernal",
+        "email": "bernalmochonjorge@gmail.com"
+    }],
+    "require": {},
+    "psr-4": {
+        "App\\": "./clases"
+    }
+
+}
